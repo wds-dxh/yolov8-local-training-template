@@ -1,0 +1,19 @@
+# path: D:\workspace\now\ultralytics
+# train: mydata/images/train  # 128 images
+# val: mydata/images/train  # 128 images
+# test:
+
+path: D:\workspace\now\train_yolov8
+train: data\images\train  # 128 images
+val: data\images\train  # 128 images
+test:
+
+
+#nc: 3
+
+# class names
+names:
+  0: plastics
+  1: carton
+
+
